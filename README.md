@@ -1,6 +1,6 @@
 <h1 align="center">HEy ThErE , I'm Andres N. Meza</h1>
 <h3 align="center">Yes, I am passionate about many things and the main one is development, I specialize in the frontend, in the design of mobile & web applications from its paper design to development. I consider myself a multidisciplinary person, a friend told me that I am a Swiss Army knife and he was right. I like art and as an expression I use code, my computer, my iPad and my Apple Pencil are my main company, if I am not at a keyboard making code, or designing something, creating something fantastic in Blender, creating animations, studying a new technology, possibly cooking.</h3>
-https://badgen.net/badge/icon/apple?icon=apple&label
+
 - 🔭 I’m currently working on **@beanario**
 
 - 💬 Ask me about **Vue, Swift, SwiftUi, blender, illustrator, 3D, game design, food**
