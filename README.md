@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **@beanario**
 
-- 💬 Ask me about **Vue, Swift, SwiftUi, blender, illustrator, 3D, game design, food**
+- 💬 Ask me about **Vue, Swift, React, TS, SwiftUi, blender, illustrator, 3D, game design, food**
 
 - 📫 How to reach me **andes_nmeza@hotmail.com**
 
